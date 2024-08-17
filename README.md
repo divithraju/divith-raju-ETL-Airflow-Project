@@ -20,7 +20,7 @@ This project demonstrates a simple ETL pipeline using Airflow, MySQL, Python, an
 
 └── README.md                # Project documentation
 
-Getting Started
+
 
 # Prerequisites
 
